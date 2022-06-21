@@ -1,0 +1,10 @@
+.topBar{
+   display: flex;
+   justify-content: end
+}
+.topText{
+    margin-top: 18px;
+}
+.clear{
+    width: 150px;
+}
